@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: google
+Version: 0.1.1
+Summary: nlpbridge google packge
+Home-page: https://github.com/Vitalis001/google/tree/main
+Author: 
+Author-email: 
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# google package for python
+### pip install nlpbridge_google

@@ -1,2 +1,2 @@
-# proto package for python
-### pip install proto
+# google package for python
+### pip install nlpbridge_google

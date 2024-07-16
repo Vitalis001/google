@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+google.egg-info/PKG-INFO
+google.egg-info/SOURCES.txt
+google.egg-info/dependency_links.txt
+google.egg-info/entry_points.txt
+google.egg-info/top_level.txt
